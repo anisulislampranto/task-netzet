@@ -15,13 +15,13 @@ export default function Home() {
 
         <div className="w-full z-50 flex justify-center items-center min-h-[46px] p-[16px] md:py-[4px] md:px-[4px] bg-[linear-gradient(90deg,#fc004e_0%,_#10cbe0_100%)]">
           <div className="text-center">
-            <span className="md:text-[22px] text-[18px] font-urbanist font-extrabold md:leading-[31px] text-[#00e7f9]">
+            <span className="md:text-[22px] text-[18px] font-figtree font-extrabold md:leading-[31px] text-[#00e7f9]">
               🚀 FRESH BEGINNINGS SALE
             </span>
-            <span className="md:text-[22px] font-urbanist font-semibold md:leading-[31px] text-[#ffffff]">
+            <span className="md:text-[22px] font-figtree font-semibold md:leading-[31px] text-[#ffffff]">
               :
             </span>
-            <span className="md:text-[22px] font-urbanist font-bold md:leading-[31px] text-[#ffffff]">
+            <span className="md:text-[22px] font-figtree font-bold md:leading-[31px] text-[#ffffff]">
               {' '}Extra 25% OFF, Limited Spots - start your journey today!
             </span>
           </div>
@@ -57,10 +57,10 @@ export default function Home() {
               </svg>
             </div>
             <div className="hidden md:flex justify-end items-center flex-1">
-              <span className="text-[18px] font-urbanist font-semibold leading-[22px] text-center text-[#a9a9a9]">
+              <span className="text-[18px] font-figtree font-semibold leading-[22px] text-center text-[#a9a9a9]">
                 About us
               </span>
-              <span className="text-[18px] font-urbanist font-semibold leading-[22px] text-center text-[#a9a9a9] ml-[44px]">
+              <span className="text-[18px] font-figtree font-semibold leading-[22px] text-center text-[#a9a9a9] ml-[44px]">
                 Contact
               </span>
             </div>
@@ -110,11 +110,11 @@ export default function Home() {
                     className="flex-shrink-0"
                   />
                 }
-                className="flex justify-center items-center bg-[#fc004e] text-[#ffffff] text-[20px] font-urbanist font-bold leading-[24px] shadow-[2px_2px_10px_#00e7f9] rounded-[10px] pt-[8px] pr-[40px] pb-[8px] pl-[34px] gap-[10px] w-full "
+                className="flex justify-center items-center bg-[#fc004e] text-[#ffffff] text-[20px] font-figtree font-bold leading-[24px] shadow-[2px_2px_10px_#00e7f9] rounded-[10px] pt-[8px] pr-[40px] pb-[8px] pl-[34px] gap-[10px] w-full "
               >
                 GET STARTED
               </Button>
-              <span className="text-[12px] font-urbanist font-normal leading-[15px] text-center text-[#ffffff] w-full  ">
+              <span className="text-[12px] font-figtree font-normal leading-[15px] text-center text-[#ffffff] w-full  ">
                 1-minute quiz for personalized Insights
               </span>
             </div>
