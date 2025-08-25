@@ -1,1 +1,15 @@
 @import "tailwindcss";
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-rgb: 255, 255, 255;
+}
+
+body {
+  font-family: var(--font-urbanist), sans-serif;
+}
+
+@theme {
+  --font-figtree: var(--font-figtree);
+  --font-urbanist: var(--font-urbanist)
+}
